@@ -30,11 +30,13 @@ Dify 와 LangGraph 를 배포하기 위한 프론트엔드 유스케이스를 �
 
 ### 1. Publish as a Single-page Web App
 
+
 ### 2. Embedding In Websites
 
 ### 3. StreamLit - Developing with Dify APIs
 
 ### 4. Use Frontend Template
+- OutDated
 
 ### 5. Use a No-Code Frontend Compatible with Dify
 

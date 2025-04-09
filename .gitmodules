@@ -1,9 +1,3 @@
-[submodule "dify-webapp-conversation"]
-	path = dify-webapp-conversation
-	url = https://github.com/teddynote-lab/dify-webapp-conversation
-[submodule "dify-webapp-text-generator"]
-	path = dify-webapp-text-generator
-	url = https://github.com/teddynote-lab/dify-webapp-text-generator
 [submodule "langgraph-platform-webapp"]
 	path = langgraph-platform-webapp
 	url = https://github.com/teddynote-lab/langgraph-platform-webapp
