@@ -10,3 +10,6 @@
 [submodule "dify-streamlit-usecase"]
 	path = dify-streamlit-usecase
 	url = https://github.com/teddynote-lab/dify-streamlit-usecase
+[submodule "dify-webapp-conversation"]
+	path = dify-webapp-conversation
+	url = https://github.com/teddynote-lab/dify-webapp-conversation.git

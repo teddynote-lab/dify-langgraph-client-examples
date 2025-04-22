@@ -13,7 +13,7 @@ Dify 와 LangGraph 를 배포하기 위한 프론트엔드 유스케이스를 �
 Dify 에서 제작한 채팅앱은 웹사이트에 임베딩(삽입)이 가능합니다.  
 (단, 워크플로우 앱은 임베딩 옵션이 제공되지 않습니다)
 
-자세한 내용은 [해당 문서](./dify-embedding-usecase/README.md) 를 확인해주세요.
+자세한 내용은 [해당 링크](https://github.com/teddynote-lab/dify-embedding-usecase/tree/6e69d5afed30d26ac7c77ad65faf413df97ca8cd) 를 확인해주세요.
 
 ### 3. StreamLit - Developing with Dify APIs
 
