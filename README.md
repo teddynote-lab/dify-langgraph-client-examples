@@ -21,6 +21,8 @@ Dify 에서 제작한 채팅앱은 웹사이트에 임베딩(삽입)이 가능�
 
 ### 5. Use a No-Code Frontend Compatible with Dify
 
+### 6. Integration With Chatting app
+
 ## LangGraph
 
 ### 1. Streamlit
@@ -30,6 +32,8 @@ Dify 에서 제작한 채팅앱은 웹사이트에 임베딩(삽입)이 가능�
 ### 3. Use Frontend Template
 
 ### 4. Use a No-Code Frontend Compatible with LangGraph Platform
+
+### 5. Integration With Chatting app
 
 ## License
 
