@@ -23,17 +23,13 @@ Dify 에서 제작한 채팅앱은 웹사이트에 임베딩(삽입)이 가능�
 
 ### 6. Integration With Chatting app
 
-## LangGraph
+## LangGraph Platform
 
-### 1. Streamlit
+### 1. Use Frontend Template
 
-### 2. StreamLit - Developing with LangGraph Platform APIs
+### 2. Use a No-Code Frontend Compatible with LangGraph Platform
 
-### 3. Use Frontend Template
-
-### 4. Use a No-Code Frontend Compatible with LangGraph Platform
-
-### 5. Integration With Chatting app
+### 3. Integration With Chatting app
 
 ## License
 
@@ -41,13 +37,4 @@ Dify 에서 제작한 채팅앱은 웹사이트에 임베딩(삽입)이 가능�
 
 ## Contributing
 
-Contributions are always welcome! Please participate in the project through issue registration or pull requests. :)
-
-## Contact
-
-If you have questions or need help, please register an issue or contact:
-dev@brain-crew.com
-
-## Author
-
-[Neulhan](https://github.com/Neulhan)
+기여는 언제나 환영합니다! 이슈 등록이나 풀 리퀘스트를 통해 프로젝트에 참여해 주세요. :)
