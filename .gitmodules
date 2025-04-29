@@ -1,18 +1,24 @@
 [submodule "langgraph-platform-webapp"]
 	path = langgraph-platform-webapp
 	url = https://github.com/teddynote-lab/langgraph-platform-webapp
+	branch = main
 [submodule "dify-embedding-usecase"]
 	path = dify-embedding-usecase
 	url = https://github.com/teddynote-lab/dify-embedding-usecase
+	branch = main
 [submodule "dify-streamlit-usecase"]
 	path = dify-streamlit-usecase
 	url = https://github.com/teddynote-lab/dify-streamlit-usecase
+	branch = main
 [submodule "dify-webapp-conversation"]
 	path = dify-webapp-conversation
 	url = https://github.com/teddynote-lab/dify-webapp-conversation.git
+	branch = main
 [submodule "dify-langgraph-discord-bot"]
 	path = dify-langgraph-discord-bot
 	url = https://github.com/teddynote-lab/dify-langgraph-discord-bot.git
+	branch = main
 [submodule "dify-langgraph-teams-bot"]
 	path = dify-langgraph-teams-bot
 	url = https://github.com/teddynote-lab/dify-langgraph-teams-bot.git
+	branch = main
